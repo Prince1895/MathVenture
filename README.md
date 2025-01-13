@@ -29,6 +29,12 @@ Users are able to:
 
 - Design : invision Studio
 
+  ### what can be done more
+  - we can add more challanges
+  - in this we can add multiplayer or competitive playground having a leaderboard
+  - includes small gifts on achieving goal
+
+
 
 
 
