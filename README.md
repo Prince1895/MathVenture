@@ -29,9 +29,6 @@ Users are able to:
 
 - Design : invision Studio
 
-### ScreenShot
-<img src=""/>
-<img src="https://imgur.com/rilHVxA.png"/>
-<img src="https://imgur.com/rilHVxA.png"/>
+
 
 
